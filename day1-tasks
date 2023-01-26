@@ -1,0 +1,8 @@
+1. Login with root user
+2. Create a user with name "classic"
+3. Set password for user "classic", password should be "redhat"
+4. Read first 5 lines of /etc/passwd file with a single command
+5. Read last 4 lines of /etc/passwd file with a single command
+6. Could all lines of /etc/passwd file
+7. Login with user student on the terminal
+8. From "student" user switch to the "classic" user and provide the password when asked.

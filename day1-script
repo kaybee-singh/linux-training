@@ -1,0 +1,4 @@
+echo "## Adding User student##"
+useradd student
+echo "## Creating password for user ##"
+echo "student" | passwd --stdin linuxuser
